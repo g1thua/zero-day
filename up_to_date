@@ -1,0 +1,3 @@
+git remote -v
+git fetch origin
+git pull origin main
