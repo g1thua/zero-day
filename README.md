@@ -1,1 +1,1 @@
-Do I love my job?
+This is cool right?
